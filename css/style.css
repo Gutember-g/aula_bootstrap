@@ -1,0 +1,25 @@
+body {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif, 30px;
+}
+.navbar{
+    background-color:rgb(190, 169, 166);
+}
+.quem-somos {
+    background-color: cornflowerblue;
+    padding-bottom: 50px;
+}
+.moveis {
+    background-color: #FAD7A0;
+    padding-bottom: 50px;
+    color: black;
+}
+.contato {
+    background-color: #D5F5E3;
+    padding-bottom: 50px;
+    color: black;
+}
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
